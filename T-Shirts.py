@@ -1,5 +1,5 @@
 import pulp
-# Spencer Larson INFM109-54P
+# 
 # Initialize model
 model = pulp.LpProblem("Tshirt_Problem", pulp.LpMaximize)
  
